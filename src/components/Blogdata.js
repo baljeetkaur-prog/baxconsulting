@@ -3,7 +3,7 @@ const blogPosts = [
   img: '/images/blog1.jpg',
   title: 'Smart Financial Planning for Growing Businesses',
   author: 'Gurbax Singh',
-  authorImg: '/images/gurbaxsmallimg.jpg',
+  authorImg: '/images/gurbaxsmallimg.JPG',
   date: 'Jul 01, 2025',
   excerpt: 'Discover how proper financial forecasting and budgeting can ensure long-term sustainability for SMEs and mid-sized enterprises.',
  content: `
@@ -41,7 +41,7 @@ const blogPosts = [
     img: '/images/blog2.jpg',
     title: 'Top 5 Funding Options for Small Businesses in 2025',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 03, 2025',
     excerpt: 'Explore government schemes, venture capital, invoice financing, and how to choose the right funding path for your business.',
     content: `
@@ -64,7 +64,7 @@ const blogPosts = [
     img: '/images/blog3.jpg',
     title: 'Risk Management in Business: Insurance Essentials',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 05, 2025',
     excerpt: 'Learn how key insurance policies protect your business from legal, operational, and financial risks in today’s volatile markets.',
     content: `
@@ -96,7 +96,7 @@ const blogPosts = [
     img: '/images/blogss1.webp',
     title: 'How Consultants Drive Operational Efficiency',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 06, 2025',
     excerpt: 'Understand the role of business consultants in improving workflows, reducing costs, and driving scalable results through tailored strategies.',
     content: `
@@ -125,7 +125,7 @@ const blogPosts = [
     img: '/images/blogss3.jpg',
     title: 'Insurance Compliance Checklist for 2025',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 07, 2025',
     excerpt: 'A must-read checklist covering key areas to stay compliant with evolving business insurance laws and reduce audit risk.',
    content: `
@@ -154,7 +154,7 @@ const blogPosts = [
     img: '/images/blogss2.jpg',
     title: 'How to Build a Financially Resilient Business',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 08, 2025',
     excerpt: 'Insights on building reserves, managing cash flow, and setting financial KPIs to withstand market downturns and expand sustainably.',
    content: `
@@ -186,7 +186,7 @@ const blogPosts = [
     img: '/images/business.jpg',
     title: 'Exit Strategy Planning for SME Owners',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+   authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 09, 2025',
     excerpt: 'Learn how to create a smooth exit plan from your business through valuation, transition planning, and legal preparation.',
    content: `
@@ -218,7 +218,7 @@ const blogPosts = [
     img: '/images/about.jpg',
     title: 'Digital Transformation for Insurance Agencies',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 10, 2025',
     excerpt: 'Explore how digitization improves client acquisition, risk analysis, and claim settlements in modern insurance firms.',
     content: `
@@ -250,7 +250,7 @@ const blogPosts = [
     img: '/images/paper.jpg',
     title: 'Financial KPIs Every Consultant Should Track',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 11, 2025',
     excerpt: 'Know the key performance indicators (KPIs) that help consultants measure success in terms of revenue, retention, and impact.',
     content: `
@@ -285,7 +285,7 @@ const blogPosts = [
     img: '/images/blog12.jpg',
     title: 'How to Cut Costs Without Compromising Growth',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 12, 2025',
     excerpt: 'Smart cost-saving strategies that still enable business expansion and customer satisfaction.',
     content: `
@@ -320,7 +320,7 @@ const blogPosts = [
     img: '/images/blogi3.jpg',
     title: 'Understanding Business Insurance Premium Calculations',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 13, 2025',
     excerpt: 'Learn how your premium is calculated and how to reduce insurance expenses.',
     content: `
@@ -360,7 +360,7 @@ const blogPosts = [
     img: '/images/blogi5.jpg',
     title: 'Working Capital Optimization Tips',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 14, 2025',
     excerpt: 'Improve cash flow by controlling receivables, inventory, and payables efficiently.',
    content: `
@@ -395,7 +395,7 @@ const blogPosts = [
     img: '/images/blogi4.jpg',
     title: 'Business Continuity Planning Post-Crisis',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+    authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 15, 2025',
     excerpt: 'A step-by-step guide to ensure operational stability after unexpected events.',
    content: `
@@ -433,7 +433,7 @@ const blogPosts = [
     img: '/images/consult.jpg',
     title: 'Choosing the Right Insurance for Export Businesses',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+   authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 16, 2025',
     excerpt: 'Explore marine, liability, and trade credit insurance suited for exporters.',
    content: `
@@ -470,7 +470,7 @@ const blogPosts = [
     img: '/images/blogi6.jpg',
     title: 'Mergers & Acquisitions: Consultant’s Roadmap',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+     authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 17, 2025',
     excerpt: 'How consultants guide valuation, negotiation, and post-merger integration.',
    content: `
@@ -505,7 +505,7 @@ const blogPosts = [
     img: '/images/businessconsult.jpg',
     title: 'The Role of AI in Financial Decision Making',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+   authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 18, 2025',
     excerpt: 'How AI tools help in predictive analytics, credit assessment, and risk detection.',
    content: `
@@ -540,7 +540,7 @@ const blogPosts = [
     img: '/images/blogss5.jpg',
     title: 'Understanding Tax Risks in Global Business Models',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+     authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 19, 2025',
     excerpt: 'Multinational businesses face complex tax risks—learn how to mitigate them.',
     content: `
@@ -580,7 +580,7 @@ const blogPosts = [
     img: '/images/blogi9.jpg',
     title: 'Why Process Innovation Matters in Consulting',
     author: 'Gurbax Singh',
-    authorImg: '/images/gurbaxsmallimg.jpg',
+   authorImg: '/images/gurbaxsmallimg.JPG',
     date: 'Jul 20, 2025',
     excerpt: 'Consultants who prioritize process innovation add measurable long-term value.',
     content: `
