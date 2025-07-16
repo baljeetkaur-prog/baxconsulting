@@ -1,11 +1,12 @@
+// src/App.jsx
 import './App.css';
 import { useEffect } from "react";
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Siteroutes from './components/Siteroutes';
+import './components/Floatingbutton.css';
 
 function App() {
-
   useEffect(() => {
     const movetop = document.getElementById("movetop");
 
@@ -45,9 +46,20 @@ function App() {
   return (
     <>
       <Header />
-      <Siteroutes/>
+      <Siteroutes />
       <Footer />
 
+      {/* ✅ Floating Strategy Call Button */}
+     <a
+  href="https://bit.ly/BookingWithBax"
+  className="floating-strategy-btn"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Book a Discovery Call
+</a>
+
+      {/* ✅ Scroll to top button (under strategy button) */}
       <button
         onClick={scrollToTop}
         id="movetop"

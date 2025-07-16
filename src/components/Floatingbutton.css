@@ -1,0 +1,56 @@
+/* Floating Call Button */
+.floating-strategy-btn {
+  position: fixed;
+  bottom: 75px; /* Space above scroll button */
+  right: 25px;
+  background-color: var(--primary-color);
+  color: white;
+  padding: 14px 24px;
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  animation: floatPulse 3s ease-in-out infinite;
+}
+
+.floating-strategy-btn:hover {
+  background-color: var(--primary-color); /* Optional: slightly darker for hover */
+  color: white; /* ✅ Keeps text white on hover */
+  transform: scale(1.08) translateY(-2px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+}
+
+/* Scroll to top button */
+#movetop {
+  position: fixed;
+  bottom: 20px;
+  right: 35px;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  z-index: 9998;
+  display: none;
+  cursor: pointer;
+  font-size: 16px;
+  transition: transform 0.3s ease;
+}
+
+#movetop:hover {
+  transform: scale(1.1);
+}
+
+/* Pulse animation */
+@keyframes floatPulse {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}

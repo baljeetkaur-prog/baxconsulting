@@ -19267,19 +19267,19 @@ h5.small-title {
 }
 
 .slide:first-child {
-  background: url(../images/ubanner1.jpg) no-repeat center top/cover;
+  background: url(../images/banner1.jpg) no-repeat center top/cover;
 }
 
 .slide:nth-child(2) {
-  background: url(../images/usbanner2.jpg) no-repeat center top/cover;
+  background: url(../images/banner2.jpg) no-repeat center top/cover;
 }
 
 .slide:nth-child(3) {
-  background: url(../images/ubanner3.jpg) no-repeat center top/cover;
+  background: url(../images/banner3.jpg) no-repeat center top/cover;
 }
 
 .slide:nth-child(4) {
-  background: url(../images/ubanner44.jpg) no-repeat center top/cover;
+  background: url(../images/banner4.jpg) no-repeat center top/cover;
 }
 
 .buttons button#prev {
