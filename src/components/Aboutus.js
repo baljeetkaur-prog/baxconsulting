@@ -107,7 +107,7 @@ const About = () => {
         {
           name: "Gurbax Singh",
           role: "Managing Director",
-          img: "teamgurbax.jpg",
+          img: "teamgurbax.JPG",
           linkedin: "https://www.linkedin.com/company/106282831"
         },
         {
